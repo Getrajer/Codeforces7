@@ -19,7 +19,19 @@ namespace _116b_PolycarpTraining
 
             Array.Sort(contests);
 
+            int task_c = 1;
+            int training = 0;
 
+            for(int i = 0; i < contests.Length; i++)
+            {
+                if(task_c <= contests[i])
+                {
+                    training++;
+                    task_c++;
+                }
+            }
+
+            Console.WriteLine(training);
         }
     }
 }
