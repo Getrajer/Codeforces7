@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "75A-LifeWithoutZeros", "75A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "116b-PolycarpTraining", "116b-PolycarpTraining\116b-PolycarpTraining.csproj", "{618A7EBE-DBB6-4D0C-A608-0180FEF36EED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12003A-CircleOfStudents", "12003A-CircleOfStudents\12003A-CircleOfStudents.csproj", "{22FF36C0-A794-413D-9C0B-E0607A1E4417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12003A-CircleOfStudents", "12003A-CircleOfStudents\12003A-CircleOfStudents.csproj", "{22FF36C0-A794-413D-9C0B-E0607A1E4417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "441A-ValeraAndAntiqueItems", "441A-ValeraAndAntiqueItems\441A-ValeraAndAntiqueItems.csproj", "{BC55345F-9C0A-4A62-99BE-790F256CB44A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "441A-ValeraAndAntiqueItems", "441A-ValeraAndAntiqueItems\441A-ValeraAndAntiqueItems.csproj", "{BC55345F-9C0A-4A62-99BE-790F256CB44A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "291A-KString", "291A-KString\291A-KString.csproj", "{8D05C491-B674-40CC-8ED3-B6B5CAC44926}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "291A-KString", "291A-KString\291A-KString.csproj", "{8D05C491-B674-40CC-8ED3-B6B5CAC44926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "560A-CurrencySystemInGeraldion", "560A-CurrencySystemInGeraldion\560A-CurrencySystemInGeraldion.csproj", "{4B802CD4-DFBF-45B3-9766-5356728FD6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1251A-BrokenKeyboard", "1251A-BrokenKeyboard\1251A-BrokenKeyboard.csproj", "{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{8D05C491-B674-40CC-8ED3-B6B5CAC44926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D05C491-B674-40CC-8ED3-B6B5CAC44926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D05C491-B674-40CC-8ED3-B6B5CAC44926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B802CD4-DFBF-45B3-9766-5356728FD6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B802CD4-DFBF-45B3-9766-5356728FD6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B802CD4-DFBF-45B3-9766-5356728FD6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B802CD4-DFBF-45B3-9766-5356728FD6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
