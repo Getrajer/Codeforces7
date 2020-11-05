@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "441A-ValeraAndAntiqueItems"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "291A-KString", "291A-KString\291A-KString.csproj", "{8D05C491-B674-40CC-8ED3-B6B5CAC44926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "560A-CurrencySystemInGeraldion", "560A-CurrencySystemInGeraldion\560A-CurrencySystemInGeraldion.csproj", "{4B802CD4-DFBF-45B3-9766-5356728FD6A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "560A-CurrencySystemInGeraldion", "560A-CurrencySystemInGeraldion\560A-CurrencySystemInGeraldion.csproj", "{4B802CD4-DFBF-45B3-9766-5356728FD6A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1251A-BrokenKeyboard", "1251A-BrokenKeyboard\1251A-BrokenKeyboard.csproj", "{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1251A-BrokenKeyboard", "1251A-BrokenKeyboard\1251A-BrokenKeyboard.csproj", "{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "805A-FakeNP", "805A-FakeNP\805A-FakeNP.csproj", "{CCC6A065-A12A-4917-8A94-90CBF6D2667D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC6A065-A12A-4917-8A94-90CBF6D2667D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC6A065-A12A-4917-8A94-90CBF6D2667D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC6A065-A12A-4917-8A94-90CBF6D2667D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC6A065-A12A-4917-8A94-90CBF6D2667D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
