@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "560A-CurrencySystemInGerald
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1251A-BrokenKeyboard", "1251A-BrokenKeyboard\1251A-BrokenKeyboard.csproj", "{1F5B25C1-41DC-47E3-A1CE-0419DAB5EFD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "805A-FakeNP", "805A-FakeNP\805A-FakeNP.csproj", "{CCC6A065-A12A-4917-8A94-90CBF6D2667D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "805A-FakeNP", "805A-FakeNP\805A-FakeNP.csproj", "{CCC6A065-A12A-4917-8A94-90CBF6D2667D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1195B-SportMafia", "1195B-SportMafia\1195B-SportMafia.csproj", "{BC54D140-0ABE-490C-8D2D-D0B08D3816FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{CCC6A065-A12A-4917-8A94-90CBF6D2667D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCC6A065-A12A-4917-8A94-90CBF6D2667D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCC6A065-A12A-4917-8A94-90CBF6D2667D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC54D140-0ABE-490C-8D2D-D0B08D3816FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC54D140-0ABE-490C-8D2D-D0B08D3816FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC54D140-0ABE-490C-8D2D-D0B08D3816FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC54D140-0ABE-490C-8D2D-D0B08D3816FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
